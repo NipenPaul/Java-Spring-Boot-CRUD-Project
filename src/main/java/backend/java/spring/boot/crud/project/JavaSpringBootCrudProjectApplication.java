@@ -1,4 +1,4 @@
-package Backend.Java.Spring.Boot.CRUD.Project;
+package backend.java.spring.boot.crud.project;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

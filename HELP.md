@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'Backend.Java Spring Boot CRUD Project' is invalid and this project uses 'Backend.Java.Spring.Boot.CRUD.Project' instead.
+* The original package name 'backend.java spring boot crud project' is invalid and this project uses 'backend.java.spring.boot.crud.project' instead.
 
 # Getting Started
 
